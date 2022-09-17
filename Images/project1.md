@@ -1,6 +1,6 @@
-## Documentation of Project 1
+# Documentation of Project 1
 
-### Documentation for Apache Installation
+## Documentation for Apache Installation
 
 `sudo apt update`
 
@@ -16,7 +16,7 @@ Html Image for apache2 default page
 
 
 
-### Documentation for Mysql Installation
+## Documentation for Mysql Installation
 
 `sudo apt install mysql-server`
 
